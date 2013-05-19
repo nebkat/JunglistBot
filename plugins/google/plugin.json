@@ -1,0 +1,6 @@
+{
+    "name": "google",
+    "title": "Google Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.google.GooglePlugin"
+}

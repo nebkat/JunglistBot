@@ -1,0 +1,6 @@
+{
+    "name": "money",
+    "title": "Exchange Rate Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.money.MoneyPlugin"
+}

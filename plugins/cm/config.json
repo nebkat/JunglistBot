@@ -1,0 +1,672 @@
+{
+    "devices": {
+        "Sony": [
+            {
+                "code": "anzu",
+                "name": "Sony Xperia Arc"
+            },
+            {
+                "code": "aoba",
+                "name": "Sony Xperia Ion"
+            },
+            {
+                "code": "coconut",
+                "name": "Sony Live With Walkman"
+            },
+            {
+                "code": "es209ra",
+                "name": "Sony Xperia X10"
+            },
+            {
+                "code": "haida",
+                "name": "Sony Xperia Neo V"
+            },
+            {
+                "code": "hallon",
+                "name": "Sony Xperia Neo"
+            },
+            {
+                "code": "hikari",
+                "name": "Sony Xperia Acro S"
+            },
+            {
+                "code": "iyokan",
+                "name": "Sony Xperia Pro"
+            },
+            {
+                "code": "mango",
+                "name": "Sony Xperia Mini Pro"
+            },
+            {
+                "code": "mimmi",
+                "name": "Sony Xperia X10 Mini Pro"
+            },
+            {
+                "code": "mint",
+                "name": "Sony Xperia T"
+            },
+            {
+                "code": "nozomi",
+                "name": "Sony Xperia S"
+            },
+            {
+                "code": "robyn",
+                "name": "Sony Xperia X10 Mini"
+            },
+            {
+                "code": "satsuma",
+                "name": "Sony Xperia Active"
+            },
+            {
+                "code": "shakira",
+                "name": "Sony Xperia X8"
+            },
+            {
+                "code": "smultron",
+                "name": "Sony Xperia Mini"
+            },
+            {
+                "code": "urushi",
+                "name": "Sony Xperia Ray"
+            },
+            {
+                "code": "zeus",
+                "name": "Sony Xperia Play"
+            },
+            {
+                "code": "zeusc",
+                "name": "Sony Xperia Play (CDMA)"
+            }
+        ],
+        "Motorola": [
+            {
+                "code": "cdma_droid2we",
+                "name": "Motorola DROID 2 World Edition (CDMA)"
+            },
+            {
+                "code": "droid2",
+                "name": "Motorola DROID 2"
+            },
+            {
+                "code": "droid2we",
+                "name": "Motorola DROID 2 World Edition"
+            },
+            {
+                "code": "everest",
+                "name": "Motorola Xoom (3G)"
+            },
+            {
+                "code": "jordan",
+                "name": "Motorola Defy"
+            },
+            {
+                "code": "jordan_plus",
+                "name": "Motorola Defy+"
+            },
+            {
+                "code": "morrison",
+                "name": "Motorola Cliq"
+            },
+            {
+                "code": "motus",
+                "name": "Motorola Backflip"
+            },
+            {
+                "code": "olympus",
+                "name": "Motorola Atrix"
+            },
+            {
+                "code": "shadow",
+                "name": "Motorola Droid X"
+            },
+            {
+                "code": "sholes",
+                "name": "Motorola Droid"
+            },
+            {
+                "code": "stingray",
+                "name": "Motorola Xoom (VZW)"
+            },
+            {
+                "code": "sunfire",
+                "name": "Motorola Photon"
+            },
+            {
+                "code": "wingray",
+                "name": "Motorola Xoom (Wifi)"
+            },
+            {
+                "code": "zeppelin",
+                "name": "Motorola Cliq XT"
+            }
+        ],
+        "Other": [
+            {
+                "code": "a700",
+                "name": "Acer Iconia A700"
+            },
+            {
+                "code": "blade",
+                "name": "ZTE Blade"
+            },
+            {
+                "code": "encore",
+                "name": "Barnes & Noble Nook Color"
+            },
+            {
+                "code": "find5",
+                "name": "Oppo Find 5"
+            },
+            {
+                "code": "odroidu2",
+                "name": "Hardkernel ODROID-U2"
+            },
+            {
+                "code": "one",
+                "name": "Geeksphone ONE"
+            },
+            {
+                "code": "skate",
+                "name": "ZTE Skate"
+            },
+            {
+                "code": "smb_a1002",
+                "name": "Viewsonic G"
+            },
+            {
+                "code": "tenderloin",
+                "name": "HP Touchpad"
+            },
+            {
+                "code": "u8150",
+                "name": "Huawei U8150"
+            },
+            {
+                "code": "u8160",
+                "name": "Huawei U8160"
+            },
+            {
+                "code": "u8220",
+                "name": "Huawei U8220"
+            },
+            {
+                "code": "v9",
+                "name": "ZTE V9"
+            },
+            {
+                "code": "vega",
+                "name": "Advent Vega"
+            },
+            {
+                "code": "z71",
+                "name": "Commvita z71"
+            },
+            {
+                "code": "zero",
+                "name": "Geeksphone ZERO"
+            }
+        ],
+        "ASUS": [
+            {
+                "code": "tf101",
+                "name": "ASUS EeePad Transformer"
+            },
+            {
+                "code": "tf201",
+                "name": "ASUS EeePad Transformer Prime"
+            },
+            {
+                "code": "tf300t",
+                "name": "ASUS Transformer Pad"
+            },
+            {
+                "code": "tf700t",
+                "name": "ASUS Transformer Pad Infinity"
+            }
+        ],
+        "Google": [
+            {
+                "code": "crespo",
+                "name": "Google Nexus S"
+            },
+            {
+                "code": "crespo4g",
+                "name": "Google Nexus S 4G"
+            },
+            {
+                "code": "grouper",
+                "name": "Google Nexus 7 (Wifi)"
+            },
+            {
+                "code": "maguro",
+                "name": "Google Galaxy Nexus (GSM)"
+            },
+            {
+                "code": "mako",
+                "name": "Google Nexus 4"
+            },
+            {
+                "code": "manta",
+                "name": "Google Nexus 10"
+            },
+            {
+                "code": "passion",
+                "name": "Google Nexus One"
+            },
+            {
+                "code": "steelhead",
+                "name": "Google Nexus Q"
+            },
+            {
+                "code": "tilapia",
+                "name": "Google Nexus 7 (GSM)"
+            }
+        ],
+        "HTC": [
+            {
+                "code": "ace",
+                "name": "HTC Desire HD/Inspire 4G"
+            },
+            {
+                "code": "bravo",
+                "name": "HTC Desire"
+            },
+            {
+                "code": "bravoc",
+                "name": "HTC Desire (CDMA)"
+            },
+            {
+                "code": "buzz",
+                "name": "HTC Wildfire"
+            },
+            {
+                "code": "click",
+                "name": "HTC Tattoo"
+            },
+            {
+               "code": "desirec",
+                "name": "HTC Droid Eris"
+            },
+            {
+                "code": "doubleshot",
+                "name": "HTC Doubleshot"
+            },
+            {
+                "code": "dream_sapphire",
+                "name": "HTC Dream/Magic"
+            },
+            {
+                "code": "endeavoru",
+                "name": "HTC One X"
+            },
+            {
+                "code": "espresso",
+                "name": "HTC myTouch 3G Slide"
+            },
+            {
+                "code": "evita",
+                "name": "HTC One XL"
+            },
+            {
+                "code": "glacier",
+                "name": "T-Mobile myTouch4G/HTC Glacier"
+            },
+            {
+                "code": "hero",
+                "name": "HTC Hero"
+            },
+            {
+                "code": "heroc",
+                "name": "HTC Hero CDMA"
+            },
+            {
+                "code": "inc",
+                "name": "Droid Incredible"
+            },
+            {
+                "code": "jewel",
+                "name": "HTC Evo 4G LTE"
+            },
+            {
+                "code": "legend",
+                "name": "HTC Legend"
+            },
+            {
+                "code": "liberty",
+                "name": "HTC Aria"
+            },
+            {
+                "code": "pyramid",
+                "name": "HTC Sensation"
+            },
+            {
+                "code": "ruby",
+                "name": "HTC Amaze"
+            },
+            {
+                "code": "saga",
+                "name": "HTC Desire S"
+            },
+            {
+                "code": "shooteru",
+                "name": "HTC Evo 3D (GSM)"
+            },
+            {
+                "code": "speedy",
+                "name": "HTC Evo Shift"
+            },
+            {
+                "code": "supersonic",
+                "name": "HTC Evo"
+            },
+            {
+                "code": "ville",
+                "name": "HTC One S"
+            },
+            {
+                "code": "vision",
+                "name": "T-Mobile G2/HTC Desire Z"
+            },
+            {
+                "code": "vivo",
+                "name": "HTC Incredible S"
+            },
+            {
+                "code": "vivow",
+                "name": "HTC Incredible 2"
+            }
+        ],
+        "Samsung": [
+            {
+                "code": "captivatemtd",
+                "name": "Samsung Captivate"
+            },
+            {
+                "code": "cooper",
+                "name": "Samsung Galaxy Ace"
+            },
+            {
+                "code": "d2att",
+                "name": "Samsung Galaxy S III (AT&T)"
+            },
+            {
+                "code": "d2cri",
+                "name": "Samsung Galaxy S III( Cricket)"
+            },
+            {
+                "code": "d2mtr",
+                "name": "Samsung Galaxy S III (M.PCS)"
+            },
+            {
+                "code": "d2spr",
+                "name": "Samsung Galaxy S III (Sprint)"
+            },
+            {
+                "code": "d2tmo",
+                "name": "Samsung Galaxy S III (TMO)"
+            },
+            {
+                "code": "d2usc",
+                "name": "Samsung Galaxy S III (USCell)"
+            },
+            {
+                "code": "d2vzw",
+                "name": "Samsung Galaxy S III (VZW)"
+            },
+            {
+                "code": "epicmtd",
+                "name": "Samsung Epic 4G"
+            },
+            {
+                "code": "fascinatemtd",
+                "name": "Samsung Fascinate"
+            },
+            {
+                "code": "galaxys2",
+                "name": "Samsung Galaxy S II"
+            },
+            {
+                "code": "galaxys2att",
+                "name": "Samsung Galaxy S II (ATT)"
+            },
+            {
+                "code": "galaxysbmtd",
+                "name": "Samsung Galaxy S(B)"
+            },
+            {
+                "code": "galaxysmtd",
+                "name": "Samsung Galaxy S"
+            },
+            {
+                "code": "hercules",
+                "name": "Samsung Galaxy S II (TMO)"
+            },
+            {
+                "code": "i605",
+                "name": "Samsung Galaxy Note 2 (VZW/LTE)"
+            },
+            {
+                "code": "i777",
+                "name": "Samsung Galaxy S II (ATT)"
+            },
+            {
+                "code": "i9100",
+                "name": "Samsung Galaxy S II"
+            },
+            {
+                "code": "i9100g",
+                "name": "Samsung Galaxy S II (G)"
+            },
+            {
+                "code": "i9300",
+                "name": "Samsung Galaxy S III"
+            },
+            {
+                "code": "l900",
+                "name": "Samsung Galaxy Note 2 (Sprint/LTE)"
+            },
+            {
+                "code": "mesmerizemtd",
+                "name": "Samsung Mesmerize"
+            },
+            {
+                "code": "n7000",
+                "name": "Samsung Galaxy Note"
+            },
+            {
+                "code": "n7100",
+                "name": "Samsung Galaxy Note 2"
+            },
+            {
+                "code": "n8000",
+                "name": "Samsung Galaxy Note 10.1 (GSM)"
+            },
+            {
+                "code": "n8013",
+                "name": "Samsung Galaxy Note 10.1 (Wifi)"
+            },
+            {
+                "code": "p1",
+                "name": "Samsung Galaxy Tab"
+            },
+            {
+                "code": "p1c",
+                "name": "Samsung Galaxy Tab (CDMA)"
+            },
+            {
+                "code": "p1l",
+                "name": "Samsung Galaxy Tab"
+            },
+            {
+                "code": "p1n",
+                "name": "Samsung Galaxy Tab"
+            },
+            {
+                "code": "p3",
+                "name": "Samsung Galaxy Tab 10.1v"
+            },
+            {
+                "code": "p3100",
+                "name": "Samsung Galaxy Tab 2 7.0"
+            },
+            {
+                "code": "p3110",
+                "name": "Samsung Galaxy Tab 2 7.0 (Wifi)"
+            },
+            {
+                "code": "p3113",
+                "name": "Samsung Galaxy Tab 2 7.0 (Wifi)"
+            },
+            {
+                "code": "p4",
+                "name": "Samsung Galaxy Tab 10.1"
+            },
+            {
+                "code": "p4tmo",
+                "name": "Samsung Galaxy Tab 10.1(TMO)"
+            },
+            {
+                "code": "p4vzw",
+                "name": "Samsung Galaxy Tab 10.1 (VZW)"
+            },
+            {
+                "code": "p4wifi",
+                "name": "Samsung Galaxy Tab 10.1 (Wifi)"
+            },
+            {
+                "code": "p5",
+                "name": "Samsung Galaxy Tab 8.9 (3G)"
+            },
+            {
+                "code": "p5100",
+                "name": "Samsung Galaxy Tab 2 10.1"
+            },
+            {
+                "code": "p5110",
+                "name": "Samsung Galaxy Tab 2 10.1(Wifi)"
+            },
+            {
+                "code": "p5113",
+                "name": "Samsung Galaxy Tab 2 10.1 (Wifi)"
+            },
+            {
+                "code": "p5wifi",
+                "name": "Samsung Galaxy Tab 8.9 (Wifi)"
+            },
+            {
+                "code": "quincyatt",
+                "name": "Samsung Galaxy Note(ATT)"
+            },
+            {
+                "code": "quincytmo",
+                "name": "Samsung Galaxy Note (TMO)"
+            },
+            {
+                "code": "s5670",
+                "name": "Samsung Galaxy Fit"
+            },
+            {
+                "code": "showcasemtd",
+                "name": "Samsung Showcase"
+            },
+            {
+                "code": "skyrocket",
+                "name": "Samsung Galaxy S2 (ATT/LTE)"
+            },
+            {
+                "code": "t0lte",
+                "name": "Samsung Galaxy Note 2 (LTE)"
+            },
+            {
+                "code": "t769",
+                "name": "Samsung Galaxy S Blaze 4G"
+            },
+            {
+                "code": "tass",
+                "name": "Samsung Galaxy Mini"
+            },
+            {
+                "code": "toro",
+                "name": "Samsung Galaxy Nexus (VZW)"
+            },
+            {
+                "code": "toroplus",
+                "name": "Samsung Galaxy Nexus (Sprint)"
+            },
+            {
+                "code": "vibrantmtd",
+                "name": "Samsung Vibrant"
+            }
+        ],
+        "LG": [
+            {
+                "code": "c660",
+                "name": "LG Optimus Pro"
+            },
+            {
+                "code": "c800",
+                "name": "LG MyTouch Q"
+            },
+            {
+                "code": "e400",
+                "name": "LG Optimus L3"
+            },
+            {
+                "code": "e510",
+                "name": "LG Optimus Hub"
+            },
+            {
+                "code": "e720",
+                "name": "LG Optimus Chic"
+            },
+            {
+                "code": "e730",
+                "name": "LG Optimus Sol"
+            },
+            {
+                "code": "e739",
+                "name": "T-Mobile LG myTouch"
+            },
+            {
+                "code": "p350",
+                "name": "LG Optimus Me"
+            },
+            {
+                "code": "p500",
+                "name": "LG Optimus One"
+            },
+            {
+                "code": "p720",
+                "name": "LG Optimus 3D Max"
+            },
+            {
+                "code": "p920",
+                "name": "LG Optimus 3D"
+            },
+            {
+                "code": "p925",
+                "name": "LG ATT Thrill"
+            },
+            {
+                "code": "p930",
+                "name": "LG Nitro HD/Optimus (LTE)"
+            },
+            {
+                "code": "p970",
+                "name": "LG Optimus Black"
+            },
+            {
+                "code": "p990",
+                "name": "LG Optimus 2X"
+            },
+            {
+                "code": "p999",
+                "name": "T-Mobile G2x"
+            },
+            {
+                "code": "su640",
+                "name": "LG Optimus LTE (SKT)"
+            }
+        ]
+    }
+}

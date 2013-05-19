@@ -1,0 +1,6 @@
+{
+    "name": "seen",
+    "title": "Last Seen Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.seen.SeenPlugin"
+}

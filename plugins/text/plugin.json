@@ -1,0 +1,6 @@
+{
+    "name": "text",
+    "title": "Text Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.text.TextPlugin"
+}

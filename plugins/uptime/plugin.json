@@ -1,0 +1,6 @@
+{
+    "name": "uptime",
+    "title": "Uptime Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.uptime.UptimePlugin"
+}

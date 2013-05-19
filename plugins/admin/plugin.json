@@ -1,0 +1,6 @@
+{
+    "name": "admin",
+    "title": "Admin Plugin",
+    "version": 1,
+    "main": "com.nebkat.junglist.bot.plugin.admin.AdminPlugin"
+}

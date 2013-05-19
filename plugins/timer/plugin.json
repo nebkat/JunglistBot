@@ -1,0 +1,6 @@
+{
+    "name": "timer",
+    "title": "Timer Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.timer.TimerPlugin"
+}

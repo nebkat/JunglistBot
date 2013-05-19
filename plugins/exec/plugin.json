@@ -1,0 +1,6 @@
+{
+    "name": "exec",
+    "title": "Native Execution Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.exec.ExecPlugin"
+}

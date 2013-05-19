@@ -1,0 +1,6 @@
+{
+    "name": "log",
+    "title": "Log Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.junglist.bot.plugin.log.LogPlugin"
+}

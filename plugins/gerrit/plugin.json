@@ -1,0 +1,6 @@
+{
+    "name": "gerrit",
+    "title": "Gerrit Review Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.gerrit.GerritPlugin"
+}

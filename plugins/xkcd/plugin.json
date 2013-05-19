@@ -1,0 +1,6 @@
+{
+    "name": "xkcd",
+    "title": "xkcd Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.xkcd.XKCDPlugin"
+}

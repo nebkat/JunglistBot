@@ -1,0 +1,6 @@
+{
+    "name": "imbd",
+    "title": "Internet Movie Database Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.imdb.ImdbPlugin"
+}

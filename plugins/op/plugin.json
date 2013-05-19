@@ -1,0 +1,6 @@
+{
+    "name": "op",
+    "title": "OP Plugin",
+    "version": 1,
+    "main": "com.nebkat.junglist.bot.plugin.op.OPPlugin"
+}

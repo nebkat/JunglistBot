@@ -1,0 +1,6 @@
+{
+    "name": "troll",
+    "title": "Troll Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.troll.TrollPlugin"
+}

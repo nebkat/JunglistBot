@@ -1,0 +1,6 @@
+{
+    "name": "8ball",
+    "title": "Magic 8-Ball",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.eightball.EightBallPlugin"
+}

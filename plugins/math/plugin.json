@@ -1,0 +1,6 @@
+{
+    "name": "math",
+    "title": "Math Plugin",
+    "version": 0.1,
+    "main": "com.nebkat.plugin.math.MathPlugin"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "url",
+    "title": "URL Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.url.URLPlugin"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "youtube",
+    "title": "Youtube Gif Plugin",
+    "version": 1.0,
+    "main": "com.nebkat.plugin.youtube.YoutubePlugin"
+}

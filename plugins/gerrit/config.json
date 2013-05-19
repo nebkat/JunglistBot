@@ -1,0 +1,6 @@
+{
+    "gerrit": {"review.bbqdroid.org": ["#blamesamsung"]},
+    "user": "junglist",
+    "hosts": "plugins/gerrit/known_hosts",
+    "key": "plugins/gerrit/id_rsa"
+}
